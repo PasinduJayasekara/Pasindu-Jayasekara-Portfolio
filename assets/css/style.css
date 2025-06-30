@@ -19,6 +19,17 @@
   }
 }
 
+.btn.download-cv {
+  color: white !important;
+  font-size: 14px !important;
+}
+
+/* Ensure the icon is also white */
+.btn.download-cv i {
+  color: white !important;
+  font-size: 14px !important;
+}
+
 /* Base Button Styles */
 .btn.download-cv {
   display: inline-flex;
